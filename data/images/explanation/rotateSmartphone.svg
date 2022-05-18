@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="256"
+   height="256"
+   viewBox="0 0 67.733333 67.733333"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   sodipodi:docname="rotateSmartphone.svg">
+  <defs
+     id="defs2">
+	
+	
+</defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="189.90595"
+     inkscape:cy="194.19017"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     units="px"
+     width="256px"
+     inkscape:window-width="1920"
+     inkscape:window-height="1030"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="レイヤー 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g895"
+       transform="matrix(1.0291767,0,0,1.0291767,-2.0611741,0.2008104)"
+       style="fill:#ffffff">
+      <g
+         style="opacity:1;fill:#ffffff"
+         id="g849"
+         transform="matrix(0.08864432,0,0,0.08864432,12.5769,10.190972)">
+        <g
+           id="g837"
+           style="fill:#ffffff">
+	<path
+   class="st0"
+   d="M 341.601,0 H 170.397 c -29.29,0 -53.12,23.828 -53.12,53.121 v 405.758 c 0,29.29 23.83,53.121 53.12,53.121 h 171.204 c 29.292,0 53.121,-23.832 53.121,-53.117 V 53.121 C 394.722,23.828 370.893,0 341.601,0 Z m -85.602,480.622 c -11.869,0 -21.526,-9.658 -21.526,-21.526 0,-11.871 9.656,-21.526 21.526,-21.526 11.869,0 21.526,9.655 21.526,21.526 0,11.868 -9.657,21.526 -21.526,21.526 z M 363.274,67.271 V 407.427 H 148.724 V 67.271 Z"
+   style="fill:#ffffff"
+   id="path835" />
+
+</g>
+      </g>
+      <g
+         id="g887"
+         transform="matrix(0.33503364,0,0,0.33503364,100.65805,-33.997108)"
+         style="fill:#ffffff">
+        <path
+           class="st0"
+           d="m -108.488,135.27391 c -4.07346,-8.55841 -10.53157,-15.99651 -18.87646,-21.20989 l 4.8321,-11.63802 -27.77723,4.02096 -7.4244,1.08923 -1.3752,0.1957 1.49648,1.64757 7.06474,7.80268 15.00265,16.56439 4.00405,-9.62454 c 5.85608,4.02406 10.40002,9.49926 13.38591,15.74191 4.41969,9.28547 5.28875,20.20749 1.57846,30.65747 -1.90214,5.3574 -4.81248,10.03878 -8.44505,13.93128 l 7.81518,7.29337 c 4.6043,-4.9279 8.30512,-10.8753 10.70907,-17.64603 4.70669,-13.19983 3.58987,-27.10206 -1.99031,-38.82614 z"
+           style="fill:#ffffff;stroke-width:0.242878"
+           id="path853" />
+        <path
+           class="st0"
+           d="m -239.78108,282.073 -15.0183,-16.57252 -4.00374,9.62722 c -5.85419,-4.02572 -10.41648,-9.50511 -13.3849,-15.74102 -4.41996,-9.28843 -5.29006,-20.20822 -1.58059,-30.65591 1.90377,-5.36198 4.808,-10.02544 8.44608,-13.93349 l -7.81525,-7.29314 c -4.60974,4.94324 -8.3121,10.89498 -10.7098,17.64809 -4.68723,13.20157 -3.59443,27.11488 1.99134,38.82393 4.07355,8.5582 10.53239,15.99422 18.88226,21.18927 l -4.83925,11.65816 27.7628,-4.02893 7.45848,-1.0771 1.35644,-0.19965 -1.47878,-1.64153 z"
+           style="fill:#ffffff;stroke-width:0.242878"
+           id="path855" />
+      </g>
+    </g>
+  </g>
+  <style
+     type="text/css"
+     id="style833">
+	.st0{fill:#4B4B4B;}
+</style>
+  <style
+     type="text/css"
+     id="style851">
+	.st0{fill:#4B4B4B;}
+</style>
+</svg>

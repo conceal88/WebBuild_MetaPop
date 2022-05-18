@@ -1,0 +1,164 @@
+.full-window {
+  /* position: relative;
+  height: 100%;
+  width: 100%; */
+  position: absolute;
+  bottom: 0;
+  top: 0;
+  right: 0;
+  left: 0;
+}
+
+.bottom {
+  position: absolute;
+  bottom: 0;
+}
+
+.right {
+  position: absolute;
+  right: 0;
+}
+
+.left {
+  position: absolute;
+  left: 0;
+}
+
+.full-window>div {
+  position: absolute;
+  bottom: 0;
+  top: 0;
+  right: 0;
+  left: 0;
+  margin: auto;
+}
+
+.logo {
+  background: url(../WebGLTemplates/progressLogo.Dark.png) no-repeat;
+  width: 154px;
+  height: 130px;
+}
+
+.progress {
+  height: 18px;
+  width: 141px;
+  transform: translateY(90px);
+}
+
+.empty {
+  display: inline-block;
+  height: 100%;
+  background: url(../WebGLTemplates/progressEmpty.Dark.png) no-repeat right;
+  float: right;
+}
+
+.full {
+  display: inline-block;
+  height: 100%;
+  background: url(../WebGLTemplates/progressFull.Dark.png) no-repeat left;
+  float: l
+}
+
+#dummyContainer {
+  background-color: #44ccee;
+  text-align: center;
+}
+
+#rotateSmartphoneWrapper {
+  position: absolute;
+  display: block;
+  margin: 20% auto;
+  left: 0;
+  right: 0;
+}
+
+#rotateSmartphoneText {
+  top: 10%;
+  position: relative;
+  max-height: 256px;
+}
+
+#rotateSmartphoneImage {
+  position: relative;
+  top: 20%;
+  max-height: 256px;
+  animation: rotation 3s ease 0s infinite normal none running;
+}
+
+@keyframes rotation {
+  0% {
+    transform: scale(1);
+  }
+
+  20% {
+    transform: scale(.9) rotate(-45deg);
+  }
+
+  40% {
+    transform: scale(1) rotate(10deg);
+  }
+
+  60% {
+    transform: scale(.9) rotate(-45deg);
+  }
+
+  80% {
+    transform: scale(1);
+  }
+}
+
+.btn,
+a.btn,
+button.btn {
+  font-size: 1vw;
+  font-weight: 700;
+  line-height: 1.5;
+  position: relative;
+  display: inline-block;
+  padding: max(0.5vw,3px) max(2vw,20px);
+  cursor: pointer;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  -webkit-transition: all 0.1s;
+  transition: all 0.1s;
+  text-align: center;
+  vertical-align: middle;
+  text-decoration: none;
+  letter-spacing: 0.1em;
+  color: #212529;
+  border-radius: 0.5rem;
+  margin: 0 3%;
+  background-color: #777;
+}
+
+.btn_wrapper {
+  height: 30%;
+  text-align: center;
+  letter-spacing: 3vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  bottom: 0;
+}
+.cover{
+  background-color: #000000bb;
+  display: none;
+}
+.linkconfirm_wrapper {
+  background-color: #aaa;
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  margin: auto;
+  width: 300px;
+  height: 200px;
+  border-radius: 30px;
+}
+#linkconfirm_desc{
+     height: 80px;
+    padding: 10px 20px;
+}

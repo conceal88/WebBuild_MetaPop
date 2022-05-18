@@ -1,0 +1,51 @@
+@media screen and (max-width: 1024px) {
+  body {
+    min-width: unset;
+  }
+
+  .world_content {
+    position: relative;
+    width: 100%;
+  }
+
+
+  .world_wrapper:nth-of-type(even)>.world_content>.world_image {
+    float: unset;
+  }
+
+  .world_wrapper:nth-of-type(even)>.world_content>.world_text {
+    float: unset;
+  }
+
+  .world_image {
+    float: unset;
+    width: 100%;
+  }
+
+  .world_text {
+    float: unset;
+    width: 100%;
+  }
+
+  .world_wrapper:before {
+    all: unset;
+  }
+
+  .world_wrapper {
+    border-top: 8px solid #fff;
+  }
+
+  .world_text h4 {
+    padding: 15px;
+  }
+
+  .btn_wrapper {
+    padding: 40px;
+  }
+
+  .btn, a.btn, button.btn {
+    font-size: 3vw;
+    width: 30vw;
+    margin: 0 8vw;
+  }
+}

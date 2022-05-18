@@ -1,0 +1,15 @@
+#youtube_wrapper{
+  position: static;
+  position: absolute;
+bottom: auto;
+top: 0;
+right: 0;
+left: auto;
+margin: auto;
+background-color: #333;
+border-radius: 10px;
+}
+#youtube_wrapper>p{
+  color: #fff;
+  margin: 10px 20px;
+}
